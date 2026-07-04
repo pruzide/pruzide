@@ -11,9 +11,6 @@
   <a href="mailto:2405433@kiit.ac.in">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="./Gourav_Singh_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download-2ea44f?style=flat&logo=readdotcv&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -66,4 +63,4 @@ A FastAPI + Redis based distributed inference system with 3 background worker se
 
 ### 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/gourav-singh-890535317/) · [2405433@kiit.ac.in](mailto:2405433@kiit.ac.in) · [Resume](./Gourav_Singh_Resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/gourav-singh-890535317/) · [2405433@kiit.ac.in](mailto:2405433@kiit.ac.in)
