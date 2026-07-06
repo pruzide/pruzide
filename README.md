@@ -27,6 +27,12 @@
   </a>
 </p>
 
+<br>
+
+<div align="center">
+<img src="./terminal-boot.svg" width="100%" />
+</div>
+
 ---
 
 ### 👋 About me
@@ -93,12 +99,6 @@ FastAPI + Redis based job scheduler processing ML predictions asynchronously acr
 - 🥇 **Finalist — Goldman Sachs India Hackathon 2026** — selected from 16,000+ participants, presented to a panel of VPs and senior engineers
 - 🥈 **2nd Place — AMD Slingshot Regional AI/ML Ideathon** — competed against 100+ teams
 - 🏆 **Winner — College Hackathon** — awarded ₹10,000 for best technical solution
-
----
-
-<div align="center">
-<img src="https://github-profile-3d-contrib.vercel.app/profile-3d-contrib/?username=pruzide&theme=github_dark" width="100%" />
-</div>
 
 ---
 
