@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gourav%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%2B%20ML%20Engineer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gourav%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20ML%20%2B%20Data%20Science&descAlignY=55&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ea44f&center=true&vCenter=true&width=650&lines=3rd+Year+CS+Student+%40+KIIT+Bhubaneswar;Building+backend+systems+%2B+ML+models;Class+of+2028+%F0%9F%8E%93" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2ea44f&center=true&vCenter=true&width=650&lines=3rd+Year+CS+Student+%40+KIIT+Bhubaneswar;Backend+Engineering+%2B+Applied+Machine+Learning;Data-Driven+Problem+Solver" alt="typing-svg" />
 
 </div>
 
@@ -10,56 +10,51 @@
 
 <div align="center">
 
-<a href="#">
-  <img src="https://img.shields.io/badge/🏅_FINALIST-Goldman_Sachs_India_Hackathon_2026-2ea44f?style=for-the-badge&labelColor=1a1a1a" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/🥈_2ND_PLACE-AMD_Slingshot_AI%2FML_Ideathon-ED1C24?style=for-the-badge&labelColor=1a1a1a" />
-</a>
+<img src="https://img.shields.io/badge/🏅_FINALIST-Goldman_Sachs_India_Hackathon_2026-2ea44f?style=for-the-badge&labelColor=1a1a1a" />
+<img src="https://img.shields.io/badge/🥈_2ND_PLACE-AMD_Slingshot_AI%2FML_Ideathon-ED1C24?style=for-the-badge&labelColor=1a1a1a" />
 
 </div>
 
 <div align="center">
-<sub>Selected from 16,000+ participants (Goldman Sachs) · Competed against 100+ teams (AMD × Hack2skill)</sub>
+<sub>Selected from 16,000+ participants (Goldman Sachs) &nbsp;·&nbsp; Competed against 100+ teams (AMD × Hack2skill)</sub>
 </div>
 
 <br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gourav-singh-890535317/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=pruzide&style=flat-square&color=2ea44f&label=Profile+views" />
 </p>
 
 ---
 
-<h3 align="center">👋 A bit about me</h3>
+### 👋 About me
 
-<p align="center">
-Still a student, still figuring things out — currently a 3rd year CS undergrad at <b>KIIT, Bhubaneswar</b>, graduating in 2028. Somewhere between debugging code at 2am and reading about the next big ML paper, I found what I actually like doing: <b>building software</b> and figuring out how <b>data science can solve real business problems</b>, not just look cool in a notebook.
-</p>
+I'm a Computer Science undergraduate at **KIIT, Bhubaneswar**, currently in my 3rd year, graduating in 2028. My work sits at the intersection of **backend engineering** and **applied data science** — I like building systems that don't just process data, but explain it, scale it, and ship it into something usable.
 
 <br>
 
-### ⚡ What I'm into right now
+### 🧰 Technical Skills
 
-- 🔧 Backend systems that don't fall over under load
-- 📊 Turning messy data into something a business can act on
-- 🤖 ML that actually ships, not just scores well in a notebook
-- 🧠 Distributed systems — concurrency bugs are weirdly fun to hunt
+**Languages & Fundamentals**
+<img src="https://skillicons.dev/icons?i=python,java,cpp&theme=dark" />
+
+**Backend & Systems**
+<img src="https://skillicons.dev/icons?i=fastapi,redis,postgres,docker,aws,linux&theme=dark" />
+
+**Data Science & Machine Learning**
+<img src="https://skillicons.dev/icons?i=py,sklearn&theme=dark" /> &nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-orange?style=flat-square)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+> Comfortable across the full data science workflow — EDA, feature engineering, model selection, handling class imbalance, and communicating results through interpretability tools like SHAP.
 
 <br>
 
-### 🧰 Stuff I've been building with
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,redis,postgres,docker,aws,git,sklearn&theme=dark" />
-</div>
-
-<br>
-
-### 🚀 Things I've built
+### 🚀 Featured Projects
 
 <table>
 <tr>
@@ -67,16 +62,16 @@ Still a student, still figuring things out — currently a 3rd year CS undergrad
 
 **💳 ML-Based Credit Underwriting Model**
 
-Class-weighted SVC for loan default risk on an imbalanced dataset — 65.22% recall on defaulters, explained via SHAP, deployed with FastAPI + Docker on AWS EC2.
+Class-weighted SVC model for loan default classification on an imbalanced financial dataset — 65.22% recall on defaulters, tuned via threshold optimization, with SHAP-based interpretability for underwriting decisions. Deployed via FastAPI + Docker on AWS EC2.
 
-`Python` `scikit-learn` `SHAP` `FastAPI` `Docker` `AWS EC2`
+`Python` `Pandas` `scikit-learn` `SHAP` `FastAPI` `Docker` `AWS EC2`
 
 </td>
 <td width="50%" valign="top">
 
 **⚙️ Distributed AI Inference Platform**
 
-FastAPI + Redis job scheduler processing ML predictions asynchronously across worker threads, with retries and PostgreSQL monitoring. Load-tested with 1,000+ jobs.
+FastAPI + Redis based job scheduler processing ML predictions asynchronously across concurrent worker threads, with retry logic and PostgreSQL-backed monitoring. Load-tested with 1,000+ simulated jobs.
 
 `Python` `FastAPI` `Redis` `PostgreSQL` `Multithreading`
 
@@ -86,24 +81,18 @@ FastAPI + Redis job scheduler processing ML predictions asynchronously across wo
 
 <br>
 
-### 🏆 Hackathons I've had fun at
+### 🏆 Hackathons
 
-- 🥇 **Finalist — Goldman Sachs India Hackathon 2026** — picked from 16,000+ participants, pitched to a room full of VPs and senior engineers
-- 🥈 **2nd Place — AMD Slingshot Regional AI/ML Ideathon** — up against 100+ teams
-- 🏆 **Winner — College Hackathon** — walked away with ₹10,000 and a lot of caffeine
+- 🥇 **Finalist — Goldman Sachs India Hackathon 2026** — selected from 16,000+ participants, presented to a panel of VPs and senior engineers
+- 🥈 **2nd Place — AMD Slingshot Regional AI/ML Ideathon** — competed against 100+ teams
+- 🏆 **Winner — College Hackathon** — awarded ₹10,000 for best technical solution
 
 ---
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pruzide&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=pruzide&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pruzide&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=pruzide&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -115,10 +104,10 @@ FastAPI + Redis job scheduler processing ML predictions asynchronously across wo
 
 <div align="center">
 
-*always down to talk tech, data, or why my code broke at 3am*
+**Open to internships in Software Engineering, Machine Learning, and Data Science.**
 
-[**Let's connect on LinkedIn →**](https://www.linkedin.com/in/gourav-singh-890535317/)
+[**Connect on LinkedIn →**](https://www.linkedin.com/in/gourav-singh-890535317/)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" />
 
 </div>
