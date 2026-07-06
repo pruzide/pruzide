@@ -1,51 +1,63 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2ea44f&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Gourav+%F0%9F%91%8B;3rd+year+CS+student+at+KIIT;Curious+about+software+dev+%2B+data+science" alt="typing-svg" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gourav%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%2B%20ML%20Engineer&descAlignY=55&descSize=18" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ea44f&center=true&vCenter=true&width=650&lines=3rd+Year+CS+Student+%40+KIIT+Bhubaneswar;Building+backend+systems+%2B+ML+models;Class+of+2028+%F0%9F%8E%93" alt="typing-svg" />
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏅_Finalist-Goldman_Sachs_India_Hackathon_2026-2ea44f?style=for-the-badge" />
-</p>
+<br>
+
+<div align="center">
+
+<a href="#">
+  <img src="https://img.shields.io/badge/🏅_FINALIST-Goldman_Sachs_India_Hackathon_2026-2ea44f?style=for-the-badge&labelColor=1a1a1a" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/🥈_2ND_PLACE-AMD_Slingshot_AI%2FML_Ideathon-ED1C24?style=for-the-badge&labelColor=1a1a1a" />
+</a>
+
+</div>
+
+<div align="center">
+<sub>Selected from 16,000+ participants (Goldman Sachs) · Competed against 100+ teams (AMD × Hack2skill)</sub>
+</div>
+
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gourav-singh-890535317/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=pruzide&style=flat-square&color=2ea44f&label=Profile+views" />
 </p>
 
 ---
 
-### 👋 A bit about me
+<h3 align="center">👋 A bit about me</h3>
 
-Still a student, still figuring things out — currently a 3rd year CS undergrad at **KIIT, Bhubaneswar**, graduating in 2028. Somewhere between debugging code at 2am and reading about the next big ML paper, I found what I actually like doing: **building software** and figuring out how **data science can solve real business problems**, not just look cool in a notebook.
+<p align="center">
+Still a student, still figuring things out — currently a 3rd year CS undergrad at <b>KIIT, Bhubaneswar</b>, graduating in 2028. Somewhere between debugging code at 2am and reading about the next big ML paper, I found what I actually like doing: <b>building software</b> and figuring out how <b>data science can solve real business problems</b>, not just look cool in a notebook.
+</p>
 
-I'm not chasing a "finished" tech stack — I just like poking around, breaking things, and rebuilding them slightly less broken.
+<br>
 
 ### ⚡ What I'm into right now
 
 - 🔧 Backend systems that don't fall over under load
-- 📊 Turning messy data into something a business can actually act on
-- 🤖 ML that ships, not just ML that scores well in a Jupyter notebook
-- 🧠 Distributed systems — mostly because concurrency bugs are weirdly fun to hunt down
+- 📊 Turning messy data into something a business can act on
+- 🤖 ML that actually ships, not just scores well in a notebook
+- 🧠 Distributed systems — concurrency bugs are weirdly fun to hunt
+
+<br>
 
 ### 🧰 Stuff I've been building with
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,redis,postgres,docker,aws,git,sklearn&theme=dark" />
+</div>
+
+<br>
 
 ### 🚀 Things I've built
 
@@ -55,16 +67,16 @@ I'm not chasing a "finished" tech stack — I just like poking around, breaking 
 
 **💳 ML-Based Credit Underwriting Model**
 
-A model that predicts loan default risk from customer + banking data, with SHAP explainability so it's not a black box, wrapped in a Streamlit dashboard and shipped via Docker on AWS EC2.
+Class-weighted SVC for loan default risk on an imbalanced dataset — 65.22% recall on defaulters, explained via SHAP, deployed with FastAPI + Docker on AWS EC2.
 
-`Python` `scikit-learn` `SHAP` `Streamlit` `Docker` `AWS EC2`
+`Python` `scikit-learn` `SHAP` `FastAPI` `Docker` `AWS EC2`
 
 </td>
 <td width="50%" valign="top">
 
 **⚙️ Distributed AI Inference Platform**
 
-A FastAPI + Redis job scheduler that processes ML predictions asynchronously across multiple worker threads, with retries and PostgreSQL-backed monitoring. Stress-tested with 1,000+ simulated jobs.
+FastAPI + Redis job scheduler processing ML predictions asynchronously across worker threads, with retries and PostgreSQL monitoring. Load-tested with 1,000+ jobs.
 
 `Python` `FastAPI` `Redis` `PostgreSQL` `Multithreading`
 
@@ -72,11 +84,32 @@ A FastAPI + Redis job scheduler that processes ML predictions asynchronously acr
 </tr>
 </table>
 
+<br>
+
 ### 🏆 Hackathons I've had fun at
 
-- 🥇 **Finalist — Goldman Sachs India Hackathon 2026** — picked from 16,000+ participants, pitched to a room full of VPs and senior engineers (still can't believe that happened)
+- 🥇 **Finalist — Goldman Sachs India Hackathon 2026** — picked from 16,000+ participants, pitched to a room full of VPs and senior engineers
 - 🥈 **2nd Place — AMD Slingshot Regional AI/ML Ideathon** — up against 100+ teams
 - 🏆 **Winner — College Hackathon** — walked away with ₹10,000 and a lot of caffeine
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pruzide&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pruzide&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pruzide&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pruzide&theme=tokyo-night&hide_border=true" width="90%"/>
+</div>
 
 ---
 
@@ -85,5 +118,7 @@ A FastAPI + Redis job scheduler that processes ML predictions asynchronously acr
 *always down to talk tech, data, or why my code broke at 3am*
 
 [**Let's connect on LinkedIn →**](https://www.linkedin.com/in/gourav-singh-890535317/)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
