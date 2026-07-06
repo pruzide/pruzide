@@ -96,23 +96,8 @@ FastAPI + Redis based job scheduler processing ML predictions asynchronously acr
 
 ---
 
-### 🐍 Contribution snake
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/pruzide/pruzide/output/github-snake.svg" width="100%" />
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pruzide&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=pruzide&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pruzide&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-profile-3d-contrib.vercel.app/profile-3d-contrib/?username=pruzide&theme=github_dark" width="100%" />
 </div>
 
 ---
