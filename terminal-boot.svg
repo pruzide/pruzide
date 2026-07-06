@@ -1,0 +1,76 @@
+<svg width="900" height="290" viewBox="0 0 900 290" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .term { font-family: 'Courier New', Consolas, monospace; font-size: 15px; }
+    </style>
+  </defs>
+
+  <rect width="900" height="290" rx="10" fill="#0a0e14"/>
+  <rect width="900" height="290" rx="10" fill="none" stroke="#1f2937" stroke-width="1"/>
+
+  <g transform="translate(16,14)">
+    <circle cx="8" cy="8" r="6" fill="#ff5f56"/>
+    <circle cx="30" cy="8" r="6" fill="#ffbd2e"/>
+    <circle cx="52" cy="8" r="6" fill="#27c93f"/>
+    <text x="450" y="13" text-anchor="middle" class="term" fill="#4b5563" font-size="12">gourav@kiit: ~/profile</text>
+  </g>
+
+  <line x1="0" y1="34" x2="900" y2="34" stroke="#1f2937" stroke-width="1"/>
+
+  <g transform="translate(24,60)" class="term">
+
+    <text opacity="0" fill="#6b7280" y="0">
+      $ ./init_profile.sh
+      <animate attributeName="opacity" to="1" dur="0.3s" begin="0.1s" fill="freeze"/>
+    </text>
+
+    <text opacity="0" fill="#4b5563" y="28">
+      <tspan fill="#22c55e">[ 0.014s]</tspan> booting gourav_singh.profile ...
+      <animate attributeName="opacity" to="1" dur="0.3s" begin="0.9s" fill="freeze"/>
+    </text>
+
+    <text opacity="0" fill="#4b5563" y="54">
+      <tspan fill="#22c55e">[ 0.062s]</tspan> loading module: backend_engineering <tspan fill="#22c55e" font-weight="bold">... OK</tspan>
+      <animate attributeName="opacity" to="1" dur="0.3s" begin="1.6s" fill="freeze"/>
+    </text>
+
+    <text opacity="0" fill="#4b5563" y="80">
+      <tspan fill="#22c55e">[ 0.118s]</tspan> loading module: machine_learning <tspan fill="#22c55e" font-weight="bold">........ OK</tspan>
+      <animate attributeName="opacity" to="1" dur="0.3s" begin="2.3s" fill="freeze"/>
+    </text>
+
+    <text opacity="0" fill="#4b5563" y="106">
+      <tspan fill="#22c55e">[ 0.167s]</tspan> loading module: distributed_systems <tspan fill="#22c55e" font-weight="bold">.. OK</tspan>
+      <animate attributeName="opacity" to="1" dur="0.3s" begin="3.0s" fill="freeze"/>
+    </text>
+
+    <text opacity="0" fill="#4b5563" y="140">
+      <tspan fill="#eab308">[ 0.203s]</tspan> mount: goldman_sachs_hackathon_2026 <tspan fill="#eab308" font-weight="bold">→ FINALIST</tspan> <tspan fill="#374151">(16,000+ entrants)</tspan>
+      <animate attributeName="opacity" to="1" dur="0.3s" begin="3.7s" fill="freeze"/>
+    </text>
+
+    <text opacity="0" fill="#4b5563" y="166">
+      <tspan fill="#eab308">[ 0.241s]</tspan> mount: amd_slingshot_ideathon <tspan fill="#eab308" font-weight="bold">→ 2ND PLACE</tspan>
+      <animate attributeName="opacity" to="1" dur="0.3s" begin="4.4s" fill="freeze"/>
+    </text>
+
+    <text opacity="0" fill="#4b5563" y="200">
+      <tspan fill="#22c55e">[ 0.298s]</tspan> status: open_to_internships <tspan fill="#e5e7eb" font-weight="bold">= true</tspan>
+      <animate attributeName="opacity" to="1" dur="0.3s" begin="5.1s" fill="freeze"/>
+    </text>
+
+    <text opacity="0" fill="#4b5563" y="226">
+      <tspan fill="#22c55e">[ 0.312s]</tspan> ready.
+      <animate attributeName="opacity" to="1" dur="0.3s" begin="5.8s" fill="freeze"/>
+    </text>
+
+    <text opacity="0" fill="#e5e7eb" y="256">
+      <tspan fill="#4b5563">$</tspan> whoami <tspan fill="#818cf8" font-weight="bold">→ Gourav Singh, Software Engineer + ML Engineer</tspan>
+      <animate attributeName="opacity" to="1" dur="0.4s" begin="6.5s" fill="freeze"/>
+    </text>
+
+    <rect x="0" y="242" width="10" height="16" fill="#818cf8" opacity="0">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" begin="6.9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
