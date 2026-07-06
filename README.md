@@ -38,17 +38,24 @@ I'm a Computer Science undergraduate at **KIIT, Bhubaneswar**, currently in my 3
 ### 🧰 Technical Skills
 
 **Languages & Fundamentals**
-<img src="https://skillicons.dev/icons?i=python,java,cpp&theme=dark" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Backend & Systems**
-<img src="https://skillicons.dev/icons?i=fastapi,redis,postgres,docker,aws,linux&theme=dark" />
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Data Science & Machine Learning**
-<img src="https://skillicons.dev/icons?i=py,sklearn&theme=dark" /> &nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-orange?style=flat-square)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 > Comfortable across the full data science workflow — EDA, feature engineering, model selection, handling class imbalance, and communicating results through interpretability tools like SHAP.
 
@@ -86,6 +93,14 @@ FastAPI + Redis based job scheduler processing ML predictions asynchronously acr
 - 🥇 **Finalist — Goldman Sachs India Hackathon 2026** — selected from 16,000+ participants, presented to a panel of VPs and senior engineers
 - 🥈 **2nd Place — AMD Slingshot Regional AI/ML Ideathon** — competed against 100+ teams
 - 🏆 **Winner — College Hackathon** — awarded ₹10,000 for best technical solution
+
+---
+
+### 🐍 Contribution snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/pruzide/pruzide/output/github-snake.svg" width="100%" />
+</div>
 
 ---
 
